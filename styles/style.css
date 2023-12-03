@@ -66,18 +66,6 @@ body {
   height: 15.432px;
 }
 
-.header__menu {
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 19.2px;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 19.2px;
-  color: #f5f5f5;
-}
-
 .header__menu-list {
   display: flex;
   flex-direction: column;
